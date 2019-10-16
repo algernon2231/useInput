@@ -1,2 +1,0 @@
-# useInput
-Created with CodeSandbox
